@@ -1,0 +1,5 @@
+[client]
+database = news
+user = USER
+password = PASSWORD
+default-character-set = utf8
