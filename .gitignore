@@ -2,3 +2,4 @@ env/
 newsstorage/db.sqlite3
 # Project exclude paths
 /newsstorage/node_modules/
+.idea/
